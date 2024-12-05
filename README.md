@@ -1,3 +1,3 @@
 # Arabic-text-Recognition
 
-In this project, we read an image-generated OCR text and converted text to speech using pytesseract and CV2 libraries.
+This project is a simple Python script that extracts text from images using Optical Character Recognition (OCR) and converts it into speech using Google Text-to-Speech (gTTS).
